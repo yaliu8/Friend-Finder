@@ -21,9 +21,14 @@ To run the application locally and access it in your browser, first set the PORT
 
 ```
 export PORT=8080
+```
+
 After the PORT environment variable has been set, run the Node.js application with the command below.
 
+```
 node server.js
+```
+
 The application will now be running locally on PORT, in this case that is port 8080. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:8080.
 
 ```
